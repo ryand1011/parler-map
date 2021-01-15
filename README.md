@@ -1,1 +1,0 @@
-A map of Parler posts on a map - written in react. 
