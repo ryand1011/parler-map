@@ -1,0 +1,10 @@
+.leaflet-container {
+    width: 75%;
+    height: 30rem;
+    margin-bottom: 2rem;
+  }
+
+  .postPopup {
+    width: 25%;
+    border-radius: 0px;
+  }

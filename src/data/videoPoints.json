@@ -1,0 +1,32 @@
+{
+    "features": [
+      {
+        "type": "Video",
+        "properties": {
+          "CONTENT_ID": 960,
+          "NAME": "A Video Title",
+          "DESCRIPTION": "A Video Description",
+          "TIME": "09:40:20",
+          "MEDIA_URL": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.009, 38.889]
+        }
+      },
+      {
+        "type": "Post",
+        "properties": {
+          "CONTENT_ID": 1219,
+          "NAME": "A Post Name",
+          "DESCRIPTION": "Post Content",
+          "TIME": "09:40:20",
+          "MEDIA_URL": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.0099, 38.8899]
+        }
+      }
+    ]
+  }
