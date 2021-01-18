@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/parler-map/static/css/main.c239b873.chunk.css",
-    "main.js": "/parler-map/static/js/main.de3a724a.chunk.js",
-    "main.js.map": "/parler-map/static/js/main.de3a724a.chunk.js.map",
-    "runtime-main.js": "/parler-map/static/js/runtime-main.4caeccd8.js",
-    "runtime-main.js.map": "/parler-map/static/js/runtime-main.4caeccd8.js.map",
-    "static/css/2.a3ed0801.chunk.css": "/parler-map/static/css/2.a3ed0801.chunk.css",
-    "static/js/2.6be685fc.chunk.js": "/parler-map/static/js/2.6be685fc.chunk.js",
-    "static/js/2.6be685fc.chunk.js.map": "/parler-map/static/js/2.6be685fc.chunk.js.map",
-    "static/js/3.c633ac96.chunk.js": "/parler-map/static/js/3.c633ac96.chunk.js",
-    "static/js/3.c633ac96.chunk.js.map": "/parler-map/static/js/3.c633ac96.chunk.js.map",
+    "main.css": "/parler-map/static/css/main.d32577e1.chunk.css",
+    "main.js": "/parler-map/static/js/main.0c9b946f.chunk.js",
+    "main.js.map": "/parler-map/static/js/main.0c9b946f.chunk.js.map",
+    "runtime-main.js": "/parler-map/static/js/runtime-main.cfdf8a13.js",
+    "runtime-main.js.map": "/parler-map/static/js/runtime-main.cfdf8a13.js.map",
+    "static/css/2.db85dcdf.chunk.css": "/parler-map/static/css/2.db85dcdf.chunk.css",
+    "static/js/2.d7fe4c30.chunk.js": "/parler-map/static/js/2.d7fe4c30.chunk.js",
+    "static/js/2.d7fe4c30.chunk.js.map": "/parler-map/static/js/2.d7fe4c30.chunk.js.map",
+    "static/js/3.bacabc9c.chunk.js": "/parler-map/static/js/3.bacabc9c.chunk.js",
+    "static/js/3.bacabc9c.chunk.js.map": "/parler-map/static/js/3.bacabc9c.chunk.js.map",
     "index.html": "/parler-map/index.html",
-    "static/css/2.a3ed0801.chunk.css.map": "/parler-map/static/css/2.a3ed0801.chunk.css.map",
-    "static/css/main.c239b873.chunk.css.map": "/parler-map/static/css/main.c239b873.chunk.css.map",
-    "static/js/2.6be685fc.chunk.js.LICENSE.txt": "/parler-map/static/js/2.6be685fc.chunk.js.LICENSE.txt"
+    "static/css/2.db85dcdf.chunk.css.map": "/parler-map/static/css/2.db85dcdf.chunk.css.map",
+    "static/css/main.d32577e1.chunk.css.map": "/parler-map/static/css/main.d32577e1.chunk.css.map",
+    "static/js/2.d7fe4c30.chunk.js.LICENSE.txt": "/parler-map/static/js/2.d7fe4c30.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/parler-map/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/parler-map/static/media/fa-solid-900.f4f93856.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4caeccd8.js",
-    "static/css/2.a3ed0801.chunk.css",
-    "static/js/2.6be685fc.chunk.js",
-    "static/css/main.c239b873.chunk.css",
-    "static/js/main.de3a724a.chunk.js"
+    "static/js/runtime-main.cfdf8a13.js",
+    "static/css/2.db85dcdf.chunk.css",
+    "static/js/2.d7fe4c30.chunk.js",
+    "static/css/main.d32577e1.chunk.css",
+    "static/js/main.0c9b946f.chunk.js"
   ]
 }
